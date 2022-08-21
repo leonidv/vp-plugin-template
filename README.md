@@ -10,7 +10,11 @@ Template project of Visual Paradigm's plugin. Include:
 Plugin uses Kotlin as program language!
 
 ## How to use
-1. Clone this repository
+1. Download <a href="https://github.com/leonidv/vp-plugin-template/archive/refs/heads/master.zip">ZIP</a> of this repository
 2. In settings.gradle.kts change project name
 3. Develop your plugin and use Gradle task vpInstallPlugin to install it.
+
+## Another
+Don't forget to install <a href="https://github.com/leonidv/vp-plugin-hot-reload">HotReload<a/> plugin! 
+It's really useful.
 
