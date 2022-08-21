@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<plugin
+        id="#pluginId#"
+        name="#pluginId#"
+        description="My plugin #pluginId#"
+        provider="#user#"
+        class="utils.Plugin">
+
+    <!-- Gradle script replaces this tag with a references to libs -->
+    <runtime/>
+
+</plugin>
